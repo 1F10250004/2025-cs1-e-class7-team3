@@ -86,3 +86,16 @@ div.mokuji p {
     width: 50%;
     margin: 10px 0 10px 0;
 }
+
+.map {
+  position: relative;
+  width: 800px;
+}
+
+.region {
+  position: absolute;
+  width: 600px;   
+  height: 750px;
+  top:  0;
+  left: 0;
+}
